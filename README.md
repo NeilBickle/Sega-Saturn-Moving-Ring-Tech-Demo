@@ -1,5 +1,7 @@
+
+# This piece of software was written using the Jo Engine Software.
 ![Jo Engine logo](https://jo-engine.org/images/design/HEADER_IMG-1.png)
-Welcome to the official Jo-Engine repository !
+
 -------------
 Jo Engine is an open source 2D and 3D game engine for the Sega Saturn written in C under MIT license.
 It allows to develop game easily without extensive knowledge in embedded development.
