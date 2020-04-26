@@ -1,16 +1,10 @@
-# This software is going to be a tech demo and is under construction.
+# Sega Saturn Moving Ring Tech Demo
 ## This piece of software was written using the Jo Engine Software.
-![Jo Engine logo](https://jo-engine.org/images/design/HEADER_IMG-1.png)
+1. Credit and forked from: johannes-fetz
 
--------------
-Jo Engine is an open source 2D and 3D game engine for the Sega Saturn written in C under MIT license.
-It allows to develop game easily without extensive knowledge in embedded development.
-And... games run on emulator and also on the original system !
+## This Respository Collaborators
+1. Neil Bickle
+### Original Respoitory Collaborators
+1. johannes-fetz
+2. Multiple Collaborators
 
-Website: https://jo-engine.org/
-
-Official Forum : https://forum.jo-engine.org/
-
-Wikipedia: https://en.wikipedia.org/wiki/Homebrew_(video_games)#Sega_Saturn
-
-![Twitter logo](https://jo-engine.org/upload/images/twitter.png) Twitter : https://twitter.com/johannes_fetz
