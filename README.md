@@ -8,3 +8,5 @@
 1. johannes-fetz
 2. Multiple Collaborators
 
+## Engine Credit
+1. Jo Engine is an open source 2D and 3D game engine for the Sega Saturn written in C under MIT license https://www.jo-engine.org/
