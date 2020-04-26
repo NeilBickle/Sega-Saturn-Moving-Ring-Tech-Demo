@@ -1,4 +1,8 @@
 # Sega Saturn Moving Ring Tech Demo
+## Aims
+1. To modifiy or write a simple piece of software in C to get a tech demo working for the sega saturn.
+2. To show i am able to code for complex chipsets
+
 ## This piece of software was written using the Jo Engine Software.
 1. Credit and forked from: johannes-fetz
 
